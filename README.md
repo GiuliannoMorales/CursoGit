@@ -1,5 +1,6 @@
 # Clases de git
 Estas clases se llevarán acabo durante dos semanas a horas 9pm
+
 ## Primeros comandos de git
 Para iniciar un nuevo repositorio en git utilizamos:
 
@@ -21,7 +22,6 @@ Este comando muestra el estado actual del repositorio Git:
 ```bash
          git status
 ```
-**Head significa que estas aqui, puntero para saber donde estamos**
 
 Para volver a un commit anterior usamos:
 ```bash
@@ -33,5 +33,7 @@ Para revisar historial o identificar cambios utilizamos:
 ```bash
          git log
 ```
-          
+### Importante:
+
+**Head significa que estas aqui, puntero para saber donde estamos**
            
