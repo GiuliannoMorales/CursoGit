@@ -13,11 +13,21 @@
         <p>
             Para iniciar un neuvo repositorio en git utilizamos:
             <b>git init</b>
-            Para añadir el estado de nuestro repositorio o cambio utilizamos:
+            Este comando se utiliza para agregar cambios en un archivo específico al área de preparación (staging area) en Git:
             <b>git add nombreArchivo</b>
-            Para guardar el cambio utilziamos :
-            <b>git commi -m "titulo del archivo"</b>
+            Este comando se utiliza para guardar los cambios confirmados en el repositorio:
+            <b>git commit -m "titulo del archivo"</b>
+            Este comando muestra el estado actual del repositorio Git:
+            <b>git status</b>
+            Head significa que estas aqui, puntero para saber donde estamos
 
+            Para volver a un commit anterior usamos:
+            <b>
+                git checkout <hash_del_commit_anterior>
+                git reset --hard <hash_del_commit_anterior>
+            </b>
+            Para revisar historial o identificar cambios utilizamos:
+            <b>git log</b>
         </p>
 
     </section>
