@@ -15,7 +15,15 @@ Este comando se utiliza para agregar cambios en un archivo específico al área 
 ```
          git commit -m "titulo del archivo"
 ```
+Este comando muestra el estado actual del repositorio Git:
+```
+         git status
+```
+**Head significa que estas aqui, puntero para saber donde estamos**
 
-            
-           
+Para volver a un commit anterior usamos:
+```
+        git checkout <hash_del_commit_anterior>
+        git reset --hard <hash_del_commit_anterior>
+```
            
