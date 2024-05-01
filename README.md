@@ -1,7 +1,8 @@
 # Clases de git
 Estas clases se llevarán acabo durante dos semanas a horas 9pm
 
-## Primeros comandos de git
+## Clase 1
+### Primeros comandos de git
 Para iniciar un nuevo repositorio en git utilizamos:
 
 ```bash
@@ -36,4 +37,5 @@ Para revisar historial o identificar cambios utilizamos:
 ### Importante:
 
 **Head significa que estas aqui, puntero para saber donde estamos**
-           
+
+## Clase 2
