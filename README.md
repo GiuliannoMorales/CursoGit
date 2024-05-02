@@ -69,8 +69,17 @@ permite realizar un desarrollo no lineal y colaborativo
 ```
 ### Fusionar ramas
 
-Integración de dos ramas, incorporar los cambios de una rama a la ram donde estoy.
+Integración de dos ramas, incorporar los cambios de una rama a la rama donde estoy.
 
+```bash
+
+         git merge "nombre de la rama"
+ ```
+ *Para cancelar el merge
+ ```bash
+
+         git merge --abort
+ ```
 *Para eliminar una rama(limpiar el espacio de trabajo):
 ```bash
 
@@ -91,3 +100,5 @@ Integración de dos ramas, incorporar los cambios de una rama a la ram donde est
  ```
  
 ### Conflictos
+
+Cambios en la misma linea de código en distintas ramas, donde al fusionar serán distintas
