@@ -40,3 +40,5 @@ Para revisar historial o identificar cambios utilizamos:
 
 ## Clase 2
 La rama es un snapshot de la división del estado del código, un nuevo apuntador(bifurcación)
+### ¿Para que sirve?
+permite realizar un desarrollo no lineal y colaborativo
