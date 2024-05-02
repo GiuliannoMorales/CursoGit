@@ -39,3 +39,4 @@ Para revisar historial o identificar cambios utilizamos:
 **Head significa que estas aqui, puntero para saber donde estamos**
 
 ## Clase 2
+La rama es un snapshot de la división del estado del código, un nuevo apuntador(bifurcación)
