@@ -63,6 +63,8 @@ permite realizar un desarrollo no lineal y colaborativo
 ```bash
 
          git checkout -b "nombre de la rama"
+
+        git switch -c "nombre de la rama"
       
 ```
 ### Fusionar ramas
@@ -74,4 +76,8 @@ Integración de dos ramas, incorporar los cambios de una rama a la ram donde est
 
          git brach -d "nombre de la rama"
  ```
+*Ver todas las ramas:
+```bash
+
+         git brach -a
  ```
