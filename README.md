@@ -42,3 +42,12 @@ Para revisar historial o identificar cambios utilizamos:
 La rama es un snapshot de la división del estado del código, un nuevo apuntador(bifurcación)
 ### ¿Para que sirve?
 permite realizar un desarrollo no lineal y colaborativo
+-------------
+Para listar las ramas:
+```bash
+         git brach
+```
+Para crear una rama(especificar lo que hará):
+```bash
+         git brach login
+```
