@@ -81,3 +81,13 @@ Integración de dos ramas, incorporar los cambios de una rama a la ram donde est
 
          git brach -a
  ```
+
+*Ver historial de otras maneras:
+```bash
+
+         git log --oneline
+
+         git log --graph
+ ```
+ 
+### Conflictos
