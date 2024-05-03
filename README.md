@@ -119,7 +119,7 @@ Git es un control de versiones y GitHub es un servicio de alojamiento en la nube
  ```
 *Para subir a gitHub, para sincronizar los cambios del repo local al repo remoto:
  ```bash
-     git push origin master 
+     git push origin master (En vez de master, puede ser otra rama)
  ```
  *Para subir a gitHub, de otra manera(Leer documentación):
  ```bash
@@ -128,4 +128,8 @@ Git es un control de versiones y GitHub es un servicio de alojamiento en la nube
   *Para clonar repositorios:
  ```bash
      git clone "enlace" 
+ ```
+  *Para actualizar las ramas existentes:
+ ```bash
+     git fetch
  ```
