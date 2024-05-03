@@ -117,7 +117,11 @@ Git es un control de versiones y GitHub es un servicio de alojamiento en la nube
  ```bash
      git remote-v
  ```
-*Para subir a gitHub:
+*Para subir a gitHub, para sincronizar los cambios del repo local al repo remoto:
  ```bash
-     git push -u origin master
+     git push origin master 
+ ```
+ *Para subir a gitHub, de otra manera(Leer documentación):
+ ```bash
+     git push -u origin master 
  ```
