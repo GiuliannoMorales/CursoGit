@@ -125,3 +125,7 @@ Git es un control de versiones y GitHub es un servicio de alojamiento en la nube
  ```bash
      git push -u origin master 
  ```
+  *Para clonar repositorios:
+ ```bash
+     git clone "enlace" 
+ ```
