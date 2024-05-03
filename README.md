@@ -102,3 +102,22 @@ Integración de dos ramas, incorporar los cambios de una rama a la rama donde es
 ### Conflictos
 
 Cambios en la misma linea de código en distintas ramas, donde al fusionar serán distintas
+
+## Clase 3
+Git es un control de versiones y GitHub es un servicio de alojamiento en la nube de código fuente.
+
+**Repositorios remortos.-** Están hospedados en un servidor para sincronizarse con otros repositorios.
+
+*Para colocar el gitHub al git:
+
+```bash
+     git remote add origin "enlace"
+ ```
+*Para ver si se hizo:
+ ```bash
+     git remote-v
+ ```
+*Para subir a gitHub:
+ ```bash
+     git push -u origin master
+ ```
