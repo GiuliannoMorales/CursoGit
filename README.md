@@ -127,9 +127,13 @@ Git es un control de versiones y GitHub es un servicio de alojamiento en la nube
  ```
   *Para clonar repositorios:
  ```bash
-     git clone "enlace" 
+     git clone "url" 
  ```
   *Para actualizar las ramas existentes:
  ```bash
      git fetch
+ ```
+  *Para actualizar las ramas borradas y borrarlas:
+ ```bash
+     git remote prune origin
  ```
