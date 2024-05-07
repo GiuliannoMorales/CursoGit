@@ -139,4 +139,24 @@ Git es un control de versiones y GitHub es un servicio de alojamiento en la nube
  ```
 
  ## Clase 4
-
+En esta clase se verá git push, git pull, pull request
+#### Git push
+Empujar cualquier cambio de la máquina local a la remota
+```bash
+     git push origin "rama"
+ ```
+ Tenemos tambien el comando:
+ ```bash
+     git push -u
+ ```
+ Tambien tenemos el comando para forzar un push, donde podria ser peligroso porque se podria borrar cambios existentes:
+ ```bash
+     git push -f
+ ```
+ #### Git pull
+Jalar cualquier cambio del remoto a la máquina local
+```bash
+     git pull origin main
+ ```
+#### Pull request
+Petición de cambios que se envía a un repositorio, es como mostrar el trabajo para recibir el feedBack adecuado.
