@@ -174,3 +174,9 @@ Entre los flujos mas antiguos es main(master),develop, feature, release y hotfix
 ##### Trunk based development
 Ramas efimeras que quieren ser integradas por medio de una pull request.
 Es util si contamos con buen sistema CI/CD
+
+##### ship / show / ask
+
+Ship .- se fusiona en la rama principal .
+Show.- Abre una peticion de cambios para que sea revisado(fusión inmediato).
+Ask.- Abre un PR para discutir los cambios.
