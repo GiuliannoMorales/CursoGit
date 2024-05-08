@@ -160,3 +160,8 @@ Jalar cualquier cambio del remoto a la máquina local
  ```
 #### Pull request
 Petición de cambios que se envía a un repositorio, es como mostrar el trabajo para recibir el feedBack adecuado.
+
+## Clase 5
+En esta clase se verá gitFlow
+#### GitFlow
+Flujos de trabajo colaborativo con GIT.
