@@ -165,3 +165,8 @@ Petición de cambios que se envía a un repositorio, es como mostrar el trabajo 
 En esta clase se verá gitFlow
 #### GitFlow
 Flujos de trabajo colaborativo con GIT.
+##### Definición del gitFlow
+
+GitFlow es un modelo de flujo de trabajo colaborativo en equipos de desarrollo de software. 
+
+Entre los flujos mas antiguos es main(master),develop, feature, release y hotfix.
