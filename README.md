@@ -170,3 +170,7 @@ Flujos de trabajo colaborativo con GIT.
 GitFlow es un modelo de flujo de trabajo colaborativo en equipos de desarrollo de software. 
 
 Entre los flujos mas antiguos es main(master),develop, feature, release y hotfix.
+
+##### Trunk based development
+Ramas efimeras que quieren ser integradas por medio de una pull request.
+Es util si contamos con buen sistema CI/CD
