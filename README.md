@@ -46,11 +46,11 @@ permite realizar un desarrollo no lineal y colaborativo
 
 *Para listar las ramas:
 ```bash
-         git brach
+         git branch
 ```
 *Para crear una rama(especificar lo que hará):
 ```bash
-         git brach "nombre de la rama"
+         git  branch "nombre de la rama"
 ```
 *Para cambiar entre ramas:
 ```bash
@@ -83,12 +83,12 @@ Integración de dos ramas, incorporar los cambios de una rama a la rama donde es
 *Para eliminar una rama(limpiar el espacio de trabajo):
 ```bash
 
-         git brach -d "nombre de la rama"
+         git branch -d "nombre de la rama"
  ```
 *Ver todas las ramas:
 ```bash
 
-         git brach -a
+         git  branch -a
  ```
 
 *Ver historial de otras maneras:
