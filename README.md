@@ -182,3 +182,21 @@ Ship .- se fusiona en la rama principal .
 Show.- Abre una peticion de cambios para que sea revisado(fusión inmediato).
 
 Ask.- Abre un PR para discutir los cambios.
+
+
+## Clase 6
+Buenas practicas
+
+
+#### Escribir buenos commits
+
+Usar verbo imperativo:
+Add: añadir nuevo archivo
+
+Change: se modifica un archivo existente
+
+Fix: Se arregla un bug
+
+Remove: se elimina algun archivo
+
+Utilizar como máximo 50 caracteres en un mensaje de commit. Utilizar prefijos para  que el historial se mas legible.
