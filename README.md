@@ -212,3 +212,5 @@ Feature: Desarrollo de una nueva caracteristica.
 Experiment: Cosas experimentales
 
 Hotfix: Cambio rápido de error crítico
+
+utilizar IDs para la gestión del proyecto.
