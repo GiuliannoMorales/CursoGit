@@ -200,3 +200,15 @@ Fix: Se arregla un bug
 Remove: se elimina algun archivo
 
 Utilizar como máximo 50 caracteres en un mensaje de commit. Utilizar prefijos para  que el historial se mas legible.
+
+#### Escribir bueno nombre de rama
+
+Podriamos utilizar:
+
+Bug: Cambios de código para arreglar bugs
+
+Feature: Desarrollo de una nueva caracteristica.
+
+Experiment: Cosas experimentales
+
+Hotfix: Cambio rápido de error crítico
