@@ -238,6 +238,8 @@ Remove: se elimina algun archivo
 
 Utilizar como máximo 50 caracteres en un mensaje de commit. Utilizar prefijos para  que el historial se mas legible.
 
+![Buenas practicas](Imagenes/buenas.png)
+
 #### Escribir bueno nombre de rama
 
 Podriamos utilizar:
@@ -271,3 +273,5 @@ Si quieres mantener los cambios:
  ```bash
      git commit --amend .m "mensaje corregido"
  ```
+
+ ![Deshacer](Imagenes/deshacer.PNG)
