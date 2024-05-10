@@ -126,7 +126,9 @@ Cambios en la misma linea de código en distintas ramas, donde al fusionar será
 ## Clase 3
 Git es un control de versiones y GitHub es un servicio de alojamiento en la nube de código fuente.
 
-**Repositorios remortos.-** Están hospedados en un servidor para sincronizarse con otros repositorios.
+![GitHub](Imagenes/gitHub.jpg)
+
+**Repositorios remotos.-** Están hospedados en un servidor para sincronizarse con otros repositorios.
 
 *Para colocar el gitHub al git:
 
@@ -159,7 +161,10 @@ Git es un control de versiones y GitHub es un servicio de alojamiento en la nube
  ```
 
  ## Clase 4
-En esta clase se verá git push, git pull, pull request
+En esta clase se verá git push, git pull, pull request.
+
+![Git push y git pull](Imagenes/push,pull.jpg)
+
 #### Git push
 Empujar cualquier cambio de la máquina local a la remota
 ```bash
