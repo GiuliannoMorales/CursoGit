@@ -284,7 +284,6 @@ Si quieres mantener los cambios:
  ```bash
      git commit --amend .m "mensaje corregido"
  ```
-<center>
-
-![Deshacer](Imagenes/deshacer.PNG)
-</center>
+<p align="center">
+  <img src="Imagenes/deshacer.PNG" alt="Deshacer">
+</p>
