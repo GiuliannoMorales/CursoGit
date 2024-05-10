@@ -5,8 +5,10 @@ Estas clases se llevarán acabo durante dos semanas a horas 9pm
 
 ## Clase 1
  Git es un sistema distribuido de  control de versiones, donde un control de versiones es un sistema que registra cada cambio que se realiza en el código a lo largo de un proyecto.(un Historico)
+<center>
 
  ![Control de versiones](Imagenes/controlVersiones.PNG) 
+</center>
 
 ### Primeros comandos de git
 *Para iniciar un nuevo repositorio en git utilizamos:
@@ -125,8 +127,10 @@ Cambios en la misma linea de código en distintas ramas, donde al fusionar será
 
 ## Clase 3
 Git es un control de versiones y GitHub es un servicio de alojamiento en la nube de código fuente.
+<center>
 
 ![GitHub](Imagenes/gitHub.jpg)
+</center>
 
 **Repositorios remotos.-** Están hospedados en un servidor para sincronizarse con otros repositorios.
 
@@ -190,8 +194,10 @@ Petición de cambios que se envía a un repositorio, es como mostrar el trabajo 
 En esta clase se verá gitFlow
 #### GitFlow
 Flujos de trabajo colaborativo con GIT.
+<center>
 
 ![gitflow](Imagenes/gitflow.PNG)
+</center>
 
 ##### Definición del gitFlow
 
@@ -208,8 +214,10 @@ Ramas de apoyo : feature, release y hotfix.
 ##### Trunk based development
 Ramas efimeras que quieren ser integradas por medio de una pull request.
 Es util si contamos con buen sistema CI/CD
+<center>
 
 ![Trunk Based development](Imagenes/trunk.PNG)
+</center>
 
 ##### ship / show / ask
 
@@ -238,7 +246,10 @@ Remove: se elimina algun archivo
 
 Utilizar como máximo 50 caracteres en un mensaje de commit. Utilizar prefijos para  que el historial se mas legible.
 
+<center>
+
 ![Buenas practicas](Imagenes/buenas.png)
+</center>
 
 #### Escribir bueno nombre de rama
 
@@ -273,5 +284,7 @@ Si quieres mantener los cambios:
  ```bash
      git commit --amend .m "mensaje corregido"
  ```
+<center>
 
- ![Deshacer](Imagenes/deshacer.PNG)
+![Deshacer](Imagenes/deshacer.PNG)
+</center>
