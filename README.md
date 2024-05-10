@@ -45,10 +45,22 @@ Estas clases se llevarán acabo durante dos semanas a horas 9pm
 **Head significa que estas aqui, puntero para saber donde estamos**
 
 ## Clase 2
+Al usar Git, los archivos pueden tener alguno de los siguientes estados:
+
+• modificado (modified)
+
+• preparado (staged)
+
+• confirmado (committed)
+
+![Estados](Imagenes/states.PNG)
+
 La rama es un snapshot de la división del estado del código, un nuevo apuntador(bifurcación)
 
 ### ¿Para que sirve?
 permite realizar un desarrollo no lineal y colaborativo
+
+![Ramas](Imagenes/Branch.PNG)
 
 *Para listar las ramas:
 ```bash
@@ -108,6 +120,8 @@ Integración de dos ramas, incorporar los cambios de una rama a la rama donde es
 ### Conflictos
 
 Cambios en la misma linea de código en distintas ramas, donde al fusionar serán distintas
+
+![Conflictos](Imagenes/conflictos.PNG)
 
 ## Clase 3
 Git es un control de versiones y GitHub es un servicio de alojamiento en la nube de código fuente.
