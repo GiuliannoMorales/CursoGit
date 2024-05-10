@@ -228,3 +228,9 @@ Si quieres mantener los cambios:
 ```bash
      git reset --hard HEAD~1
  ```
+
+ ##### Arreglar el último commit
+
+ ```bash
+     git commit --amend .m "mensaje corregido"
+ ```
