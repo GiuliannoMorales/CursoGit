@@ -214,3 +214,17 @@ Experiment: Cosas experimentales
 Hotfix: Cambio rápido de error crítico
 
 utilizar IDs para la gestión del proyecto.
+
+
+## Clase 7
+¿Cómo deshacer cambios?
+
+##### Deshacer el último commit
+Si quieres mantener los cambios:
+```bash
+     git reset --soft HEAD~1
+ ```
+ Si *NO* quieres mantener los cambios:
+```bash
+     git reset --hard HEAD~1
+ ```
