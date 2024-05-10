@@ -190,15 +190,26 @@ Petición de cambios que se envía a un repositorio, es como mostrar el trabajo 
 En esta clase se verá gitFlow
 #### GitFlow
 Flujos de trabajo colaborativo con GIT.
+
+![gitflow](Imagenes/gitflow.PNG)
+
 ##### Definición del gitFlow
 
 GitFlow es un modelo de flujo de trabajo colaborativo en equipos de desarrollo de software. 
 
-Entre los flujos mas antiguos es main(master),develop, feature, release y hotfix.
+Entre los flujos mas antiguos es main(master),develop 
+
+![Flujos antiguos](Imagenes/develop.PNG)
+
+Ramas de apoyo : feature, release y hotfix.
+
+![Ramas de apoyo](Imagenes/feature.PNG)
 
 ##### Trunk based development
 Ramas efimeras que quieren ser integradas por medio de una pull request.
 Es util si contamos con buen sistema CI/CD
+
+![Trunk Based development](Imagenes/trunk.PNG)
 
 ##### ship / show / ask
 
@@ -208,6 +219,7 @@ Show.- Abre una peticion de cambios para que sea revisado(fusión inmediato).
 
 Ask.- Abre un PR para discutir los cambios.
 
+![Ship,Show,Ask](Imagenes/ship,show,ask.PNG)
 
 ## Clase 6
 Buenas practicas
