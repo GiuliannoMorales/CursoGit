@@ -1,6 +1,8 @@
 # Clases de git
 Estas clases se llevarán acabo durante dos semanas a horas 9pm
 
+![Logo de git](Imagenes/git.PNG)
+
 ## Clase 1
 ### Primeros comandos de git
 *Para iniciar un nuevo repositorio en git utilizamos:
