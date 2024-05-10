@@ -4,6 +4,10 @@ Estas clases se llevarán acabo durante dos semanas a horas 9pm
 ![Logo de git](Imagenes/git.PNG)
 
 ## Clase 1
+ Git es un sistema distribuido de  control de versiones, donde un control de versiones es un sistema que registra cada cambio que se realiza en el código a lo largo de un proyecto.(un Historico)
+
+ ![Control de versiones](Imagenes/controlVersiones.PNG) 
+
 ### Primeros comandos de git
 *Para iniciar un nuevo repositorio en git utilizamos:
 
