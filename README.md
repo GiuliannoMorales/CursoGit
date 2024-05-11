@@ -291,3 +291,21 @@ Si quieres mantener los cambios:
 <p align="center">
   <img src="Imagenes/deshacer.PNG" alt="Deshacer">
 </p>
+
+## Clase 8
+¿Qué es un hook?
+
+Es un punto de enganche, es la posibilidad de ejecutar una acción cada vez que ocurre un evento.
+
+ ```bash
+     .git/hooks (se encuentra la lista de hooks)
+ ```
+ <p align="center">
+  <img src="Imagenes/hooks.webp" alt="Hokks">
+</p>
+
+Los hooks más utilzados del lado del cliente: pre-commit, prepare-commit-msg, commit-msg, post-commit, pre-push, post-checkout y post-merge
+
+Los hooks más utilzados del lado del servidor: pre-receive, update,post-receive.
+
+Se puede crear un hook propio en .git/hooks con cualquier tipo de interprete de lenguaje de preogramación.
